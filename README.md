@@ -20,4 +20,4 @@ A interface de Armazenamento da Web Storage API fornece acesso ao armazenamento 
 * Similar ao localStorage (salvar dados, ler dados e excluir dados)
 * Capacidade de 5MB
 * Os dados são salvos no computador do usuário
-* Os dados expiram quanda a aba é fechada
+* Os dados expiram quando a aba é fechada
